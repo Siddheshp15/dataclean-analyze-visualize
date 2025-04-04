@@ -2,3 +2,4 @@ matp-visualize.py- this file visualize the content based on operations performed
 mysql-query.sql- this has queries to analyze the data
 pandas-analyze.py- this file analyze the data based on operations performed and use pandas.
 pandas-sql conn.py- this file is to connect sql and pandas.
+data taken online from flipkart database.
